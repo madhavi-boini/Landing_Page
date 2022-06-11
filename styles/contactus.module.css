@@ -1,0 +1,30 @@
+.card{
+ margin: 20px;
+ padding: 20px;
+ text-align: center;
+  
+}
+.input{
+    width: 40rem;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(93, 148, 244);
+    border-radius: 3px;
+    font-family:cursive;
+    border: none;
+   background-color: rgb(204, 218, 244);
+   box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.2); 
+}
+.btn{
+    font-family:cursive;
+    cursor: pointer;
+    background-color: rgb(35, 187, 55);
+    border: none;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+   box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.2);
+}

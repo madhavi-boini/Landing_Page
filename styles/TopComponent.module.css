@@ -1,0 +1,30 @@
+.header{
+    margin-top: 20px;
+    font-size: xx-large;
+}
+.btn{
+    font-family:cursive;
+    font-size: medium;
+    font-weight: bold;
+    background-color: white;
+    color: rgb(93, 148, 244);
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.span{
+    text-align: center;
+    border-radius: 30px;
+    background-color:  rgb(204, 218, 244);
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 97%;
+    display: inline-block; 
+    align-items: center;
+    font-size: larger;
+  }
+  .img{
+    margin-bottom: 10px;
+    width: 400px;
+  }
